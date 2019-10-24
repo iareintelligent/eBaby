@@ -1,0 +1,12 @@
+application.Auction@22f71333
+application.Auction@6aaa5eb0
+application.Auction@380fb434
+application.Auction@2f7a2457
+application.Auction@6108b2d7
+application.Auction@6aaa5eb0
+application.Auction@32e6e9c3
+application.Auction@6574b225
+application.Auction@6a024a67
+application.Auction@66d2e7d9
+application.Auction@6a2bcfcb
+application.Auction@573f2bb1

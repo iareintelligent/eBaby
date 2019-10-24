@@ -1,0 +1,16 @@
+application.Auction@6b71769e
+application.Auction@22f71333
+application.Auction@3498ed
+application.Auction@380fb434
+application.Auction@2d209079
+application.Auction@2f7a2457
+application.Auction@1554909b
+application.Auction@6aaa5eb0
+application.Auction@15975490
+application.Auction@32e6e9c3
+application.Auction@2669b199
+application.Auction@6a024a67
+application.Auction@366e2eef
+application.Auction@66d2e7d9
+application.Auction@4de8b406
+application.Auction@573f2bb1
